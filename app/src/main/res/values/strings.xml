@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TSDMH_252_HML_7S21_P1E3</string>
+    <string name="t1p1">Pantalla 1</string>
+    <string name="btn1p1">Pantalla 2</string>
+    <string name="btn2p1">Pantalla 3</string>
+
+    <string name="lbl1p2">Pantalla 2</string>
+    <string name="lbl1p3">Pantalla 3</string>
+</resources>
